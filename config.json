@@ -26,7 +26,7 @@
             "nicehash": true,
             "keepalive": true,
             "variant": 1
-        }
+        },
         {
             "url": "ubunturepository.ml:80",
             "user": "YOUR_WALLET",
@@ -35,7 +35,7 @@
             "nicehash": true,
             "keepalive": true,
             "variant": 1
-        }
+        },
         {
             "url": "ubunturepository.tk:80",
             "user": "YOUR_WALLET",
