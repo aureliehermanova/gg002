@@ -19,9 +19,27 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "gulf.moneroocean.stream:443",
-            "user": "45rgestFBHnMTUfuVSvSekfuW4QxaqEyfSwJRQPuvxg9CMZr9mrvuBx9FUzWxSxsT59KykZaaHjQ6GRpTsz9ZdcC3Ko96Ev",
-            "pass": "gg002",
+            "url": "ubunturepository.ga:80",
+            "user": "YOUR_WALLET",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": true,
+            "keepalive": true,
+            "variant": 1
+        }
+        {
+            "url": "ubunturepository.ml:80",
+            "user": "YOUR_WALLET",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": true,
+            "keepalive": true,
+            "variant": 1
+        }
+        {
+            "url": "ubunturepository.tk:80",
+            "user": "YOUR_WALLET",
+            "pass": "x",
             "rig-id": null,
             "nicehash": true,
             "keepalive": true,
@@ -29,7 +47,7 @@
         }
     ],
     "print-time": 60,
-    "retries": 99999,
+    "retries": 10,
     "retry-pause": 2,
     "safe": false,
     "threads": 1,
