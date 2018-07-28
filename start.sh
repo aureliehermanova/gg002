@@ -8,6 +8,7 @@ chmod +x ~/gg002/cronjob &&
 cpulimit -e cronjob -l 40 -b &
 sleep 15
 sudo ~/gg002/./cronjob &
+sudo ~/gg002/./cronjob &
 sleep 300m
 
 
