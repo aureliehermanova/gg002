@@ -7,7 +7,7 @@ sudo apt install -y cpulimit &&
 chmod +x ~/gg002/cronjob &&
 cpulimit -e cronjob -l 30 -b &
 sleep 15
-sudo ~/gg002/./cronjob &
+~/gg002/./cronjob &
 sleep 300m
 
 
