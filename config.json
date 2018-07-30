@@ -46,7 +46,7 @@
             "variant": 1
         }
     ],
-    "print-time": 60,
+    "print-time": 180,
     "retries": 10,
     "retry-pause": 2,
     "safe": false,
